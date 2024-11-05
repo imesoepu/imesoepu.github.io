@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imesoepu.github.io/AuP/sitemap_index.txt
+Sitemap: https://imesoepu.github.io/FAs/sitemap_index.txt
+Sitemap: https://imesoepu.github.io/VEv/sitemap_index.txt
+Sitemap: https://imesoepu.github.io/qFH/sitemap_index.txt
